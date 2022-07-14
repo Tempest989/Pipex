@@ -2,7 +2,7 @@
 This Project is about recreating the shell command `< input_file command1 | command2 > output_file` in C.  
 Read the [subject.pdf](https://github.com/Tempest989/Pipex/blob/main/en.subject.pdf) for in-depth information about the Project.
 # My Score
-<img width="1347" alt="Pipex Score" src="https://user-images.githubusercontent.com/55472613/178903124-dc575233-cbfe-4aa7-92ab-7bd112ad7ad8.png">
+<img width="1347" alt="Pipex Score" src="https://user-images.githubusercontent.com/55472613/178903398-802a303f-c859-4c6b-9301-f14344ede64c.png">
 
 # Makefile Utility
 - `make` and `make pipex` will compile the Mandatory part of the Pipex Project, as the executable `pipex`.
